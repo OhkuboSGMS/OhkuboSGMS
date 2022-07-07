@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={OkuboSGMS}
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={OhkuboSGMS}
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
