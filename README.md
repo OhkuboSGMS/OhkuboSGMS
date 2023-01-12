@@ -1,9 +1,17 @@
-### OkkuboSGMS's  Profile
+猫も
+いたよ
 
-最近は主にpython.
-時々 flutter,Android(kotlin) Unityやってます．
+## Lang's
+* python.
+* flutter(dart),
+* Android(kotlin)
+* Unity(C#)
 
-仕事はCV系の深層学習案件を主にやってますが，アプリから，サーバからなんでもやってます.
+## Work
+* Computer Vision Deep Learning
+* server
+* client
+* kivy
 
 ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OhkuboSGMS
