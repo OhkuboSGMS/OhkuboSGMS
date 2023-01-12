@@ -1,5 +1,3 @@
-猫も
-いたよ
 
 ## Lang's
 * python.
