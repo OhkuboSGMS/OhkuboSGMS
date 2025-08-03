@@ -6,6 +6,7 @@
 * Unity(C#)
 
 ## Work
+* LLM Application Development (OpenAI&Azure OpenAI,Anthropics& AWS Bedrock)
 * Computer Vision Deep Learning
 * server
 * client
